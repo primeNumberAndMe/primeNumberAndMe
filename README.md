@@ -11,7 +11,3 @@
 
 - 💻 &nbsp; Rust | C
 - 🔧 &nbsp; Git | Markdown
-
-<br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primeNumberAndMe&show_icons=true)](https://github.com/primeNumberAndMe)
